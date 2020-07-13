@@ -32,6 +32,7 @@ to yolo label format
 ```
 python train.py --data icon.yaml --cfg  yolov5*.yaml --weights yolov5*.pt --batch-size 16
 ```
+7. Use `connect_img.py` to connect cropped images
 **NOTICE: Remember to modify the path in some files.**
 
 ***
